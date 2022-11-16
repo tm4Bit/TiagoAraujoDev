@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tiago!
 
-- 🔭 I’m currently working on projects with HTML, CSS, Javascript, Typescript and NodeJS
+- 🔭 I’m currently working on projects with React, Node.js and Typescript
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me. 👉 Email: <a href="tiagomuniz130@gmail.com">tiagomuniz130@gmail.com</a>
