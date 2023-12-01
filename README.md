@@ -27,7 +27,7 @@
             align="center" 
             alt="Nextjs"
             height="30" width="40" 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg"
         />
     </span>
     <img 
