@@ -22,11 +22,10 @@
         height="30" width="40" 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     />
-    <span>
+    <span style="background: white">
         <img 
             align="center" 
             alt="Nextjs"
-            style="background: 'white'"
             height="30" width="40" 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
         />
