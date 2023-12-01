@@ -26,7 +26,7 @@
         <img 
             align="center" 
             alt="Nextjs"
-            style="background: white"
+            style="background: 'white'"
             height="30" width="40" 
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
         />
