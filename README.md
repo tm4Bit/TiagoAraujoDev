@@ -22,7 +22,7 @@
         height="30" width="40" 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     />
-    <span style="background: white">
+    <span style="padding: 10px; background-color: white;">
         <img 
             align="center" 
             alt="Nextjs"
