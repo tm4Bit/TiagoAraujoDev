@@ -5,11 +5,11 @@
 - 📫 How to reach me. 👉 Email: <a href="tiagomuniz130@gmail.com">tiagomuniz130@gmail.com</a>
 
 <div align="left">
-  <a href="https://github.com/TiagoAraujoDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoAraujoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoAraujoDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+    <br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
